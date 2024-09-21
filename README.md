@@ -45,7 +45,7 @@ To run this project locally, you need to have:
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/wedding-management.git
+   git clone https://github.com/Ratre-ishwari/wedding-management.git
    \`\`\`
 
 2. Navigate to the project directory:
@@ -95,9 +95,9 @@ For deployment, ensure you have the following build and start commands:
 
 ## Future Enhancements
 
-- **Payment Gateway**: Integrate a payment system for booking confirmation.
-- **User Reviews**: Allow users to leave reviews for wedding halls.
-- **Admin Panel**: Admin interface for managing hall listings and user reports.
+- Implement OTP verification for user authentication
+- Create a separate page for vendors to manage their listings
+- Implement lazy loading for improved performance and user experience
 
 ## Contributing
 
@@ -109,13 +109,9 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: \`git push origin feature/my-feature\`.
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [Ratre-ishwari](https://github.com/Ratre-ishwari)
+- **Email**: ratreishu6263@gmail.com
