@@ -1,6 +1,6 @@
 import asyncHandler from "../utils/asynchandler.js"
 import db from "../db/db.connect.js"
-import bcrypt from "bcrypt"
+import bcrypt from 'bcryptjs';
 import tokens from "../utils/tokenGenerator.js"
 import Jwt from "jsonwebtoken"
 const loginPage = (req,res)=>{
